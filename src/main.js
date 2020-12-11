@@ -2,7 +2,7 @@
  * @Author: Vhen
  * @Date: 2020-11-13 13:25:53
  * @LastEditors: Vhen
- * @LastEditTime: 2020-12-08 18:16:39
+ * @LastEditTime: 2020-12-11 09:13:40
  * @Description: 
  */
 import Vue from "vue";
@@ -15,6 +15,7 @@ import { component } from 'components'
 import './mock'
 import { $apis } from "apis";
 import http from "http";
+import 'amfe-flexible'
 
 import 'vant/lib/index.css';
 
